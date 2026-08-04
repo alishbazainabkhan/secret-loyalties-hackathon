@@ -2,6 +2,7 @@
 
 **Apart Research Secret Loyalties Hackathon · 24–26 July 2026 · Solo submission · Tracks 3 & 4**  
 **Author:** Alishba Zainab Khan · Independent AI Safety Researcher · BS Data Science & AI, BITS Pilani
+
 Full corrected paper (PDF) is on the main branch
 ---
 
