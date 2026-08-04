@@ -2,7 +2,7 @@
 
 **Apart Research Secret Loyalties Hackathon · 24–26 July 2026 · Solo submission · Tracks 3 & 4**  
 **Author:** Alishba Zainab Khan · Independent AI Safety Researcher · BS Data Science & AI, BITS Pilani
-
+Full corrected paper (PDF) is on the main branch
 ---
 
 > *If surfacing a secret loyalty requires eliciting the harmful behaviour it is trained to produce, then safe black-box auditing may be structurally impossible for that loyalty class. The activation condition is the harm.*
