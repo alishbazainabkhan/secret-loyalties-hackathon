@@ -1,0 +1,20 @@
+# Never commit
+*.env
+.env
+*token*
+*secret*
+*.key
+__pycache__/
+*.pyc
+.DS_Store
+
+# Withheld per dual-use review — see data/WITHHELD.md
+givl_groq.json
+givl_groq_v2.json
+givl_organisms_*.json
+MANUAL_AUDIT_v2.ipynb
+
+# Never commit credentials
+*token*
+*.key
+.env
